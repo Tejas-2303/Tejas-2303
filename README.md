@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Patil</h1>
 
 <h3 align="center">
-An aspiring Automation Test Engineer passionate about software quality, test automation, and building reliable applications. I enjoy working with automation frameworks, designing test cases, identifying defects, and learning modern software testing practices.
+An Automation Test Engineer passionate about software quality, test automation, and building reliable applications. I enjoy working with automation frameworks, designing test cases, identifying defects, and learning modern software testing practices.
 </h3>
 
 <p align="left">
